@@ -1,0 +1,10 @@
+.Header{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    background-color: #08233D;;
+    color: #FAFAFA;
+    padding-bottom: 10px;
+}
